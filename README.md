@@ -114,7 +114,7 @@
 
 ###
 
-<h3 align="left">June 2025 - Present</h3>
+<h3 align="left">July 2025 - Present</h3>
 
 ###
 
