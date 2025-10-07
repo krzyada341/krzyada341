@@ -114,7 +114,13 @@
 
 ###
 
-<h3 align="left">June 2023 - Present</h3>
+<h3 align="left">June 2025 - Present</h3>
+
+###
+
+<p align="left">- Frontend Developer - ING Bank Slaski, Sokolska 34, 40-086 Katowice</p>
+
+<h3 align="left">June 2023 - June 2025</h3>
 
 ###
 
