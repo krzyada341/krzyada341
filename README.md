@@ -102,7 +102,7 @@
 
 ###
 
-<h3 align="left">Master's Degree in Computer Science (In Progress)</h3>
+<h3 align="left">Master's Degree in Computer Science</h3>
 
 ###
 
