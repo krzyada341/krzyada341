@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Krzysztof, a passionate technology enthusiast and a seasoned Fullstack Developer with a  frontend focused knack for crafting modern web applications.</p>
+<p align="left">Hi there! I'm Krzysztof, a passionate technology enthusiast and frontend focused Fullstack Developer with a knack for crafting modern web applications.</p>
 
 ###
 
